@@ -3,7 +3,7 @@ package tech.restapi.movie_api.service
 import org.springframework.stereotype.Service
 import tech.restapi.movie_api.dto.MovieDTO
 import tech.restapi.movie_api.repository.MovieRepository
-import tech.restapi.movie_api.utlis.mapper.MovieMapper
+import tech.restapi.movie_api.utils.mapper.MovieMapper
 
 @Service
 class MovieServiceImpl(

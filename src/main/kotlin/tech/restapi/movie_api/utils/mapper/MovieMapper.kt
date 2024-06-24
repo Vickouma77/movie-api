@@ -1,4 +1,4 @@
-package tech.restapi.movie_api.utlis.mapper
+package tech.restapi.movie_api.utils.mapper
 
 // import org.springframework.stereotype.Component
 import org.springframework.stereotype.Service
